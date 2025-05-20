@@ -1,4 +1,4 @@
-# NextBuy - Modern Landing Page
+# VibeCart- Modern Landing Page
 
 Welcome to **NextBuy**, a sleek and responsive landing page built with React, Vite, and TailwindCSS. This project demonstrates a modern e-commerce design with dynamic components and a user-friendly interface.
 
